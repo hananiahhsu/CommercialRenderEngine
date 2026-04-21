@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\WorkSpaceForOpenGL\CommercialRenderEngine\src\EditorFramework\MainFrameWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkSpaceForOpenGL\CommercialRenderEngine\src\EditorFramework\StudioDocument.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkSpaceForOpenGL\CommercialRenderEngine\src\EditorFramework\StudioLayout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\WorkSpaceForOpenGL\CommercialRenderEngine\include\Meridian\EditorFramework\MainFrameWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WorkSpaceForOpenGL\CommercialRenderEngine\include\Meridian\EditorFramework\StudioCommandIds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WorkSpaceForOpenGL\CommercialRenderEngine\include\Meridian\EditorFramework\StudioDocument.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WorkSpaceForOpenGL\CommercialRenderEngine\include\Meridian\EditorFramework\StudioLayout.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\WorkSpaceForOpenGL\CommercialRenderEngine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FD37FA25-C343-3EC8-BD37-BC592C184974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{56D65210-D7B1-336E-90AE-7040F36DE03C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

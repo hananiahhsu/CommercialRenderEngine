@@ -1,0 +1,12 @@
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/MeridianRuntime.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/MeridianEditorFramework.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/MeridianApplication.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/MeridianStudio.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/MeridianHeadlessValidation.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/MeridianUnitTests.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/MeridianRegressionTests.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/PACKAGE.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/RUN_TESTS.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/INSTALL.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/ALL_BUILD.dir
+D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/ZERO_CHECK.dir

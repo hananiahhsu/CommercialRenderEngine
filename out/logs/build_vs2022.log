@@ -1,0 +1,18 @@
+适用于 .NET Framework MSBuild 版本 17.11.9+a69bbaaf5
+
+  Checking File Globs
+  The vcpkg manifest was disabled, but we found a manifest file in D:\WorkSpaceForOpenGL\CommercialRenderEngine\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  MeridianRuntime.vcxproj -> D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianRuntime.lib
+  The vcpkg manifest was disabled, but we found a manifest file in D:\WorkSpaceForOpenGL\CommercialRenderEngine\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  MainFrameWindow.cpp
+  MeridianEditorFramework.vcxproj -> D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianEditorFramework.lib
+  The vcpkg manifest was disabled, but we found a manifest file in D:\WorkSpaceForOpenGL\CommercialRenderEngine\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  MeridianApplication.vcxproj -> D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianApplication.lib
+  The vcpkg manifest was disabled, but we found a manifest file in D:\WorkSpaceForOpenGL\CommercialRenderEngine\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  MeridianHeadlessValidation.vcxproj -> D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianHeadlessValidation.exe
+  The vcpkg manifest was disabled, but we found a manifest file in D:\WorkSpaceForOpenGL\CommercialRenderEngine\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  MeridianRegressionTests.vcxproj -> D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianRegressionTests.exe
+  The vcpkg manifest was disabled, but we found a manifest file in D:\WorkSpaceForOpenGL\CommercialRenderEngine\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  MeridianStudio.vcxproj -> D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianStudio.exe
+  The vcpkg manifest was disabled, but we found a manifest file in D:\WorkSpaceForOpenGL\CommercialRenderEngine\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  MeridianUnitTests.vcxproj -> D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianUnitTests.exe

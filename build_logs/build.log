@@ -1,0 +1,4 @@
+[ 83%] Built target MeridianRuntime
+[ 89%] Built target MeridianHeadlessValidation
+[100%] Built target MeridianRegressionTests
+[100%] Built target MeridianUnitTests

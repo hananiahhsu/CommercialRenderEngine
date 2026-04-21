@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "linux-headless-debug",
+      "generator": "Unix Makefiles",
+      "binaryDir": "out/build-headless",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug"
+      }
+    },
+    {
+      "name": "windows-vs2022-debug",
+      "generator": "Visual Studio 17 2022",
+      "architecture": {
+        "value": "x64"
+      },
+      "binaryDir": "out/build-vs2022"
+    }
+  ]
+}

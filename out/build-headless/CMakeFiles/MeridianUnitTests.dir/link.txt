@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/MeridianUnitTests.dir/link.d CMakeFiles/MeridianUnitTests.dir/tests/unit_tests.cpp.o -o MeridianUnitTests  libMeridianRuntime.a

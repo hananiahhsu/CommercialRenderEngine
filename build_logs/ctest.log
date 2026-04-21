@@ -1,0 +1,10 @@
+Internal ctest changing into directory: /mnt/data/CommercialRenderEngine_v33_src/out/build-headless
+Test project /mnt/data/CommercialRenderEngine_v33_src/out/build-headless
+    Start 1: MeridianUnitTests
+1/2 Test #1: MeridianUnitTests ................   Passed    0.02 sec
+    Start 2: MeridianRegressionTests
+2/2 Test #2: MeridianRegressionTests ..........   Passed    0.01 sec
+
+100% tests passed, 0 tests failed out of 2
+
+Total Test time (real) =   0.03 sec

@@ -1,0 +1,5 @@
+-- Install configuration: "Debug"
+-- Installing: /mnt/data/CommercialRenderEngine_v33_src/out/install-headless/lib/libMeridianRuntime.a
+-- Installing: /mnt/data/CommercialRenderEngine_v33_src/out/install-headless/bin/MeridianHeadlessValidation
+-- Installing: /mnt/data/CommercialRenderEngine_v33_src/out/install-headless/bin/MeridianUnitTests
+-- Installing: /mnt/data/CommercialRenderEngine_v33_src/out/install-headless/bin/MeridianRegressionTests

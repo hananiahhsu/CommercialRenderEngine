@@ -1,0 +1,6 @@
+{
+  "name": "meridian-render-engine-v34",
+  "version-string": "0.34.0",
+  "description": "Headless render runtime foundation with optional vcpkg manifest integration.",
+  "dependencies": []
+}

@@ -1,0 +1,18 @@
+CPack: Create package using STGZ
+CPack: Install projects
+CPack: - Run preinstall target for: MeridianRenderEngine
+CPack: - Install project: MeridianRenderEngine []
+CPack: Create package
+CPack: - package: /mnt/data/CommercialRenderEngine_v33_src/out/package-headless/MeridianRenderEngine-0.33.0-Linux.sh generated.
+CPack: Create package using TGZ
+CPack: Install projects
+CPack: - Run preinstall target for: MeridianRenderEngine
+CPack: - Install project: MeridianRenderEngine []
+CPack: Create package
+CPack: - package: /mnt/data/CommercialRenderEngine_v33_src/out/package-headless/MeridianRenderEngine-0.33.0-Linux.tar.gz generated.
+CPack: Create package using TZ
+CPack: Install projects
+CPack: - Run preinstall target for: MeridianRenderEngine
+CPack: - Install project: MeridianRenderEngine []
+CPack: Create package
+CPack: - package: /mnt/data/CommercialRenderEngine_v33_src/out/package-headless/MeridianRenderEngine-0.33.0-Linux.tar.Z generated.

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianHeadlessValidation.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianRegressionTests.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianStudio.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\Debug\MeridianUnitTests.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\WorkSpaceForOpenGL\CommercialRenderEngine\out\build-vs2022\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

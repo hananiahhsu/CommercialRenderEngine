@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/MeridianHeadlessValidation.dir/link.d CMakeFiles/MeridianHeadlessValidation.dir/tools/headless_validation_main.cpp.o -o MeridianHeadlessValidation  libMeridianRuntime.a

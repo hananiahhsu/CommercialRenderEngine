@@ -1,0 +1,10 @@
+^D:\WORKSPACEFOROPENGL\COMMERCIALRENDERENGINE\CMAKELISTS.TXT
+setlocal
+C:\ToolChain\CMake\bin\cmake.exe -SD:/WorkSpaceForOpenGL/CommercialRenderEngine -BD:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022 --check-stamp-file D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

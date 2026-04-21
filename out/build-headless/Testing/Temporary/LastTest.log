@@ -1,0 +1,35 @@
+Start testing: Apr 18 07:48 UTC
+----------------------------------------------------------
+1/2 Testing: MeridianUnitTests
+1/2 Test: MeridianUnitTests
+Command: "/mnt/data/CommercialRenderEngine_v33_src/out/build-headless/MeridianUnitTests"
+Directory: /mnt/data/CommercialRenderEngine_v33_src/out/build-headless
+"MeridianUnitTests" start time: Apr 18 07:48 UTC
+Output:
+----------------------------------------------------------
+unit_tests_passed
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MeridianUnitTests" end time: Apr 18 07:48 UTC
+"MeridianUnitTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: MeridianRegressionTests
+2/2 Test: MeridianRegressionTests
+Command: "/mnt/data/CommercialRenderEngine_v33_src/out/build-headless/MeridianRegressionTests"
+Directory: /mnt/data/CommercialRenderEngine_v33_src/out/build-headless
+"MeridianRegressionTests" start time: Apr 18 07:48 UTC
+Output:
+----------------------------------------------------------
+Visible=3 Draws=3 EffectNodes=7 ResourceDependencyEdges=11 LoweredRenderPasses=7 MergedRenderPasses=7 RenderPassObjects=7 CompatibilityGroups=4 QueueBatches=6 ResidencyMigrations=0 DescriptorPoolPages=2 DescriptorPoolAllocations=8 DescriptorCompacted=1 PipelineObjects=7 PsoCompatibilityGroups=4 PipelineCacheSize=14 PipelineCacheHits=14 BytecodeEntries=8 PersistedBytecodeEntries=8 DiskIndexRecords=8 AliasGroups=3 TransientHeapPages=1 TransientHeapAllocations=3 AcquireOps=1 PresentOps=1 QueueSubmitLists=6 Commands=23
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MeridianRegressionTests" end time: Apr 18 07:48 UTC
+"MeridianRegressionTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 18 07:48 UTC

@@ -1,0 +1,10 @@
+^D:\WORKSPACEFOROPENGL\COMMERCIALRENDERENGINE\OUT\BUILD-VS2022\CMAKEFILES\3AF05FEEF4D73CE7F09CCBA421BCEF5D\GENERATE.STAMP.RULE
+setlocal
+C:\ToolChain\CMake\bin\cmake.exe -SD:/WorkSpaceForOpenGL/CommercialRenderEngine -BD:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/MeridianRenderEngine.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

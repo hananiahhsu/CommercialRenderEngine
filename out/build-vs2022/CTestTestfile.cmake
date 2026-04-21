@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: D:/WorkSpaceForOpenGL/CommercialRenderEngine
+# Build directory: D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+if(CTEST_CONFIGURATION_TYPE MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
+  add_test([=[MeridianUnitTests]=] "D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/Debug/MeridianUnitTests.exe")
+  set_tests_properties([=[MeridianUnitTests]=] PROPERTIES  _BACKTRACE_TRIPLES "D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;48;add_test;D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
+  add_test([=[MeridianUnitTests]=] "D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/Release/MeridianUnitTests.exe")
+  set_tests_properties([=[MeridianUnitTests]=] PROPERTIES  _BACKTRACE_TRIPLES "D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;48;add_test;D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Mm][Ii][Nn][Ss][Ii][Zz][Ee][Rr][Ee][Ll])$")
+  add_test([=[MeridianUnitTests]=] "D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/MinSizeRel/MeridianUnitTests.exe")
+  set_tests_properties([=[MeridianUnitTests]=] PROPERTIES  _BACKTRACE_TRIPLES "D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;48;add_test;D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Rr][Ee][Ll][Ww][Ii][Tt][Hh][Dd][Ee][Bb][Ii][Nn][Ff][Oo])$")
+  add_test([=[MeridianUnitTests]=] "D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/RelWithDebInfo/MeridianUnitTests.exe")
+  set_tests_properties([=[MeridianUnitTests]=] PROPERTIES  _BACKTRACE_TRIPLES "D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;48;add_test;D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;0;")
+else()
+  add_test([=[MeridianUnitTests]=] NOT_AVAILABLE)
+endif()
+if(CTEST_CONFIGURATION_TYPE MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
+  add_test([=[MeridianRegressionTests]=] "D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/Debug/MeridianRegressionTests.exe")
+  set_tests_properties([=[MeridianRegressionTests]=] PROPERTIES  _BACKTRACE_TRIPLES "D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;49;add_test;D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
+  add_test([=[MeridianRegressionTests]=] "D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/Release/MeridianRegressionTests.exe")
+  set_tests_properties([=[MeridianRegressionTests]=] PROPERTIES  _BACKTRACE_TRIPLES "D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;49;add_test;D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Mm][Ii][Nn][Ss][Ii][Zz][Ee][Rr][Ee][Ll])$")
+  add_test([=[MeridianRegressionTests]=] "D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/MinSizeRel/MeridianRegressionTests.exe")
+  set_tests_properties([=[MeridianRegressionTests]=] PROPERTIES  _BACKTRACE_TRIPLES "D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;49;add_test;D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Rr][Ee][Ll][Ww][Ii][Tt][Hh][Dd][Ee][Bb][Ii][Nn][Ff][Oo])$")
+  add_test([=[MeridianRegressionTests]=] "D:/WorkSpaceForOpenGL/CommercialRenderEngine/out/build-vs2022/RelWithDebInfo/MeridianRegressionTests.exe")
+  set_tests_properties([=[MeridianRegressionTests]=] PROPERTIES  _BACKTRACE_TRIPLES "D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;49;add_test;D:/WorkSpaceForOpenGL/CommercialRenderEngine/CMakeLists.txt;0;")
+else()
+  add_test([=[MeridianRegressionTests]=] NOT_AVAILABLE)
+endif()
